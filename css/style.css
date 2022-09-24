@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+}
+nav{
+    background-color: #303030;
+}
+#search-btn{
+    background-color: #e8631c;
+    border: 1px red ;
+}
+#hero{
+    background-image: url(../img/hero.png) ;
+    background-position: center;
+    background-size: cover;
+    color: #ffffff;
+    padding: 150px 0px 30px;
+
+}
+#hero-btn{
+    background-color:#e8631c ;
+    border: 1px red;
+}
+/* about section */
+#about-part{
+    background-image: url(../img/dance-bg.png);
+    background-size: cover;
+    padding: 50px 0px;
+    color: #ffffff;
+}
+.card-body{
+    background-color: #303030;
+    color: #ffffff;
+}
+/* price section */
+#price-part{
+    background-image: url(../img/price-bg.png);
+    background-size: cover;
+    color: #ffffff;
+    padding: 50px 20px;
+}
+.card2{
+    background-color:#e8631c ;
+    color: #ffffff;
+}
+.card-body2{
+    background-color:#e8631c ;
+}
+.img-fluid1{
+    width: 50px;
+}
+.btn-price{
+    background-color:#e8631c ;
+    border: 1px solid #ffffff;
+}
+.btn-price:hover{
+    background-color: #303030;
+    color: #ffffff;
+}
+/* amazing section */
+#amazing-part{
+    color: #ffffff;
+}
+.amazing-writting{
+    padding: 250px 50px;
+}
+.amazing-writting-part2{
+    background-image: url(../img/amazing-bg.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.btn-amazing{
+    background-color:#e8631c ;
+    color: #ffffff;
+    border:1px solid #ffffff;
+}
+.btn-amazing:hover{
+    background-color:#303030 ;
+    color:1px solid #ffffff;
+    border:1px solid #303030 
+}
+
+/* statistic section */
+#statistic-part{
+    background-color: #303030;
+    color: #ffffff;
+    padding: 100px 20px;
+}
+.statistic-box img{
+    width: 100px;
+    margin: 30px 0px 10px;
+}
+.statistic-box-part h2{
+    font-size: 20px;
+}
+/* herbert section */
+#herbert-part{
+    background-image: url(../img/herbert.png);
+    background-position: center;
+    background-size: cover;
+    color: #ffffff;
+    padding: 200px 20px;
+}
+/* subscribe section */
+#subscribe-part{
+    background-image: url(../img/dance-bg.png);
+    background-size: cover;
+    color: #ffffff;
+    padding: 100px 0px;
+}
+.btn-subscribe{
+    background-color:#e8631c ;
+    border:1px solid #ffffff;
+    color: #ffffff;
+
+}
+.btn-subscribe:hover{
+    background-color: #303030;
+    border:1px solid #ffffff;
+    color: #ffffff;
+   
+}
+/* footer section */
+#footer-part{
+    background-color: #303030;
+    color: #ffffff;
+    padding: 50px 20px;
+}
+
+
